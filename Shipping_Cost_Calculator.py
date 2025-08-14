@@ -1,4 +1,3 @@
-# Here is another update by Ethan Kostiuk
 # Here is a new update by Ethan Kostiuk
 # Shipping Cost Calculator
 
